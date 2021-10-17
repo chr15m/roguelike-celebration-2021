@@ -2,6 +2,8 @@
 
 A talk by [Chris McCormick](https://mccormick.cx) ([@mccrmx](https://twitter.com/mccrmx)) for Roguelike Celebration 2021.
 
+[Get the slides](./building-juicy-minimal-roguelikes-in-the-browser.odp).
+
 ## Resources
 
  * [Slingcode.net online web app editor](https://slingcode.net)
