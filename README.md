@@ -4,6 +4,8 @@ A talk by [Chris McCormick](https://mccormick.cx) ([@mccrmx](https://twitter.com
 
 [Get the slides](./building-juicy-minimal-roguelikes-in-the-browser.odp).
 
+[Watch the talk on YouTube](https://www.youtube.com/watch?v=dJbUmDsyJRw).
+
 ## Resources
 
  * [Slingcode.net online web app editor](https://slingcode.net)
